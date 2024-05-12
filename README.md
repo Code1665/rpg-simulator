@@ -2,7 +2,7 @@
 
 Simple RPG. Defeat the Dragon to win and find our Easter Egg
 
-To **support** the project you can just basically
+To **support** the project you can 
 give us you're preferencials.
 
 # To navigate 
